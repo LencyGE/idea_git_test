@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("主干添加");
         System.out.println("分支B添加");
         System.out.println("test push");
-        System.out.println("test pull");
+        System.out.println("test pull2");
     }
 }
