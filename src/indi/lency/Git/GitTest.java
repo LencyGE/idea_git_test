@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("更新1");
         System.out.println("创建分支A");
         System.out.println("分支B");
+        System.out.println("分支B添加");
     }
 }
