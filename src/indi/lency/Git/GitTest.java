@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("分支B");
         System.out.println("主干添加");
         System.out.println("分支B添加");
+        System.out.println("test push");
     }
 }
